@@ -14,6 +14,7 @@
   Xử lý vùng biển số:
       Cắt biển số từ ảnh gốc.
       Phóng to và kiểm tra kích thước trước khi chèn lên ảnh.
+      
 📷 Demo
 
 ![image](https://github.com/user-attachments/assets/26b14e95-cb59-4f93-8cb2-2c6a5568627f)
